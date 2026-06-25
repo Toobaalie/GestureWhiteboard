@@ -71,6 +71,6 @@ python main.py
 **Tooba Siddiqui**
 
 - GitHub: https://github.com/Toobaalie
-- LinkedIn: (Add your LinkedIn profile)
+- LinkedIn: www.linkedin.com/in/tooba-ali-667218278
 
 ⭐ If you like this project, don't forget to star the repository!
